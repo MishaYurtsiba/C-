@@ -1,0 +1,10 @@
+D:\C#\WForms_5\WindowsForms_5 1\bin\Debug\WindowsForms_5 1.exe.config
+D:\C#\WForms_5\WindowsForms_5 1\bin\Debug\WindowsForms_5 1.exe
+D:\C#\WForms_5\WindowsForms_5 1\bin\Debug\WindowsForms_5 1.pdb
+D:\C#\WForms_5\WindowsForms_5 1\obj\Debug\WindowsForms_5 1.csprojAssemblyReference.cache
+D:\C#\WForms_5\WindowsForms_5 1\obj\Debug\WindowsForms_5_1.Form1.resources
+D:\C#\WForms_5\WindowsForms_5 1\obj\Debug\WindowsForms_5_1.Properties.Resources.resources
+D:\C#\WForms_5\WindowsForms_5 1\obj\Debug\WindowsForms_5 1.csproj.GenerateResource.cache
+D:\C#\WForms_5\WindowsForms_5 1\obj\Debug\WindowsForms_5 1.csproj.CoreCompileInputs.cache
+D:\C#\WForms_5\WindowsForms_5 1\obj\Debug\WindowsForms_5 1.exe
+D:\C#\WForms_5\WindowsForms_5 1\obj\Debug\WindowsForms_5 1.pdb
