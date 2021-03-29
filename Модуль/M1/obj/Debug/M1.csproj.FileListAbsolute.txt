@@ -1,0 +1,10 @@
+D:\C#\Модуль\M1\bin\Debug\M1.exe.config
+D:\C#\Модуль\M1\bin\Debug\M1.exe
+D:\C#\Модуль\M1\bin\Debug\M1.pdb
+D:\C#\Модуль\M1\obj\Debug\M1.csprojAssemblyReference.cache
+D:\C#\Модуль\M1\obj\Debug\M1.Form1.resources
+D:\C#\Модуль\M1\obj\Debug\M1.Properties.Resources.resources
+D:\C#\Модуль\M1\obj\Debug\M1.csproj.GenerateResource.cache
+D:\C#\Модуль\M1\obj\Debug\M1.csproj.CoreCompileInputs.cache
+D:\C#\Модуль\M1\obj\Debug\M1.exe
+D:\C#\Модуль\M1\obj\Debug\M1.pdb
