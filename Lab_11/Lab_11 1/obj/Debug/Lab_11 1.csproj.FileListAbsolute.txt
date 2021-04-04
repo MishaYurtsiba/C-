@@ -1,0 +1,10 @@
+D:\C#\Lab_11\Lab_11 1\bin\Debug\Lab_11 1.exe.config
+D:\C#\Lab_11\Lab_11 1\bin\Debug\Lab_11 1.exe
+D:\C#\Lab_11\Lab_11 1\bin\Debug\Lab_11 1.pdb
+D:\C#\Lab_11\Lab_11 1\obj\Debug\Lab_11 1.csprojAssemblyReference.cache
+D:\C#\Lab_11\Lab_11 1\obj\Debug\Lab_11_1.Form1.resources
+D:\C#\Lab_11\Lab_11 1\obj\Debug\Lab_11_1.Properties.Resources.resources
+D:\C#\Lab_11\Lab_11 1\obj\Debug\Lab_11 1.csproj.GenerateResource.cache
+D:\C#\Lab_11\Lab_11 1\obj\Debug\Lab_11 1.csproj.CoreCompileInputs.cache
+D:\C#\Lab_11\Lab_11 1\obj\Debug\Lab_11 1.exe
+D:\C#\Lab_11\Lab_11 1\obj\Debug\Lab_11 1.pdb
