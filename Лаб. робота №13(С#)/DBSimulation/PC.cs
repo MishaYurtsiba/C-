@@ -40,7 +40,7 @@ namespace DBSimulation
                 if (value >= 0)
                     _horsepower = value;
                 else
-                    throw new Exception("Домашній номер телефону не може бути відємним");
+                    throw new Exception("Рік випуску не може бути відємним");
             }
         }
 
