@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Побудова графіків", "Побудова графіків.csproj", "{A3846A2E-1C9C-4823-9C91-1139D328824E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3846A2E-1C9C-4823-9C91-1139D328824E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3846A2E-1C9C-4823-9C91-1139D328824E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3846A2E-1C9C-4823-9C91-1139D328824E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3846A2E-1C9C-4823-9C91-1139D328824E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC3416EB-31AE-4D43-8B50-F6D42CF546AA}
+	EndGlobalSection
+EndGlobal
