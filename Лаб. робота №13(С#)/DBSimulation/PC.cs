@@ -24,7 +24,7 @@ namespace DBSimulation
                 if (value >= 0)
                     _graduation_year = value;
                 else
-                    throw new Exception("Рік випуску не може бути відємним");
+                    throw new Exception("Потужність не може бути відємною");
             }
         }
 
