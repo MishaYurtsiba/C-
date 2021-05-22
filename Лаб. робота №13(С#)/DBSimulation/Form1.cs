@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace DBSimulation
 {
@@ -49,6 +50,13 @@ namespace DBSimulation
             _db.Add(newPc);
             Show(_db.GetAll());
             tabControl1.SelectedIndex = 0;
+            StreamWriter sw = new StreamWriter("text.txt",true);
+            sw.WriteLine(textBoxName.Text);
+            sw.WriteLine(textBoxWork.Text);
+            sw.WriteLine(textBoxNumber1.Text);
+            sw.WriteLine(textBoxNumber2.Text);
+            sw.Close();
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
