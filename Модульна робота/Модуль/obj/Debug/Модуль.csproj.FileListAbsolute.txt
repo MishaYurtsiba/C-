@@ -1,0 +1,10 @@
+D:\C#\Модульна робота\Модуль\bin\Debug\Модуль.exe.config
+D:\C#\Модульна робота\Модуль\bin\Debug\Модуль.exe
+D:\C#\Модульна робота\Модуль\bin\Debug\Модуль.pdb
+D:\C#\Модульна робота\Модуль\obj\Debug\Модуль.csprojAssemblyReference.cache
+D:\C#\Модульна робота\Модуль\obj\Debug\Модуль.Form1.resources
+D:\C#\Модульна робота\Модуль\obj\Debug\Модуль.Properties.Resources.resources
+D:\C#\Модульна робота\Модуль\obj\Debug\Модуль.csproj.GenerateResource.cache
+D:\C#\Модульна робота\Модуль\obj\Debug\Модуль.csproj.CoreCompileInputs.cache
+D:\C#\Модульна робота\Модуль\obj\Debug\Модуль.exe
+D:\C#\Модульна робота\Модуль\obj\Debug\Модуль.pdb
